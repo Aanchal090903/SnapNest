@@ -27,3 +27,7 @@ SnapNest solves this by using the Clipboard API, allowing fast paste into tools 
 
 ## Privacy
 SnapNest does not collect, transmit, or store any data outside your browser.
+
+<img width="361" height="349" alt="Screenshot 2026-01-03 at 11 51 11 AM" src="https://github.com/user-attachments/assets/af944b4e-e581-49a8-b320-01e4d7eb7b1e" />
+
+
